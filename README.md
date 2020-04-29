@@ -1,5 +1,5 @@
 # ReactJS - OMDb Movie App
-### Live Project: [OMDB MOVIE APP](https://omdb-movie-app.netlify.com/)
+
 ![alt test](screenshots/home.png)
 ![alt test](screenshots/movie.png)
 
