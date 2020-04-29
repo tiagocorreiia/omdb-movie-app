@@ -1,4 +1,4 @@
-# ReactJS - OMDb Movie App
+# React - OMDb Movie App
 
 ![alt test](screenshots/home.png)
 ![alt test](screenshots/movie.png)
